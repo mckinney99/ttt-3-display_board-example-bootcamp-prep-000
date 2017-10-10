@@ -9,3 +9,5 @@ def display_board
   puts row2
   puts row1
 end
+
+display_board
